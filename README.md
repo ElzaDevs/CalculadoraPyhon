@@ -1,4 +1,4 @@
-# 🧮 Calculadora CLI
+# 🧮 Calculadora CLI.
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
@@ -8,7 +8,7 @@ Uma calculadora simples que roda direto no terminal. Foi meu projeto guiado para
 
 ---
 
-## 📑 Índice
+## 📑 Índice.
 
 - [O que ela faz](#-o-que-ela-faz)
 - [Por que fiz esse projeto](#-por-que-fiz-esse-projeto)
@@ -20,7 +20,7 @@ Uma calculadora simples que roda direto no terminal. Foi meu projeto guiado para
 
 ---
 
-## 🧩 O que ela faz
+## 🧩 O que ela faz???
 
 Você escolhe uma operação, digita dois números, e ela te dá o resultado. Depois volta pro menu automaticamente, então dá pra fazer quantas contas quiser sem precisar reiniciar o programa toda hora.
 
@@ -36,7 +36,7 @@ Você escolhe uma operação, digita dois números, e ela te dá o resultado. De
 
 ---
 
-## 💡 Por que fiz esse projeto
+## 💡 Por que fiz esse projeto??
 
 Queria praticar o básico do básico de um jeito que realmente fixasse:
 
@@ -64,7 +64,7 @@ E pronto, o menu já aparece no terminal.
 
 ---
 
-## 💻 Exemplo de uso
+## 💻 Exemplo de uso:
 
 **Fazendo uma soma:**
 
@@ -105,7 +105,7 @@ Obrigado por usar a calculadora! Até a próxima.
 
 ---
 
-## 📂 Estrutura do projeto
+## 📂 Estrutura do projeto.
 
 ```
 calculadora-cli/
@@ -117,7 +117,7 @@ Nada complicado — um arquivo só, focado em fazer bem uma coisa simples.
 
 ---
 
-## 👩‍💻 Sobre mim
+## 👩‍💻 Sobre mim.
 
 Sou a Elza, estudante de Engenharia de Software, treinando os fundamentos de Python e Java enquanto construo meu caminho no desenvolvimento de software.
 
