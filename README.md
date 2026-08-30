@@ -125,6 +125,10 @@ Sou a Elza, estudante de Engenharia de Software, treinando os fundamentos de Pyt
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elza_Aquino-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/elzaaquino)
 
 ---
+🎓 Sobre o projeto guiado
+
+Este projeto foi desenvolvido como parte da trilha de aprendizagem TIC Trilhas, do Instituto Eldorado.
+
 
 ## 📄 Licença
 
